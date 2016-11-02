@@ -1,9 +1,9 @@
 Project Music
 ____________________________________
-Members:
-Peter_Wu\n
-Tony_Su\n
-Gary_Yeh
+###Members:
+###Peter_Wu
+###Tony_Su
+###Gary_Yeh
 ____________________________________
-Week 1:
+###Week 1:
 
